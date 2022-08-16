@@ -16,7 +16,7 @@ father(Nelson,Daniel).
 father(Nelson,Abigail).
 father(Nelson,Joe).
 father(Joe,Gilson).
-father(zengzufu,Nelson).
+father(Gary,Nelson).
 father(Jojo,Carla).
 
 mother(Jane,Joey).
